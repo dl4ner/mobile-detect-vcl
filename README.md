@@ -1,8 +1,10 @@
-test
-====
+Mobile-Detect-VCL
+=================
 
-test-repo
+This is a vcl-script for varnish (https://www.varnish-cache.org/).
 
-blafasel test.
+it combines the ideas from 
 
+* device-detect https://github.com/varnish/varnish-devicedetect/
+* rules behind mobile-detect http://mobiledetect.net/
 
