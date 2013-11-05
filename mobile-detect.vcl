@@ -1,7 +1,8 @@
-/**************************************************************************
+/*************************************************************************
+
 MIT License
 
-Copyright (c) <2013> <fidion GmbH> <info@fidion.de>
+Copyright (c) 2013 <Werner Maier> <fidion GmbH> <info@fidion.de>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
